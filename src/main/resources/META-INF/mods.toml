@@ -10,28 +10,28 @@
     license="All Rights Reserved"
 
     [[mods]]
-      modId="stopsellingenchants"
+      modId="stopsellingthat"
       version="1.0.0.0"
       displayName="Stop Selling Enchants"
       updateJSONURL="https://minecraftforge.net/versions.json"
       displayURL="https://minecraftforge.net"
-      logoFile="assets/examplemod/textures/logo.png"
-      credits="I'd like to thank my mother and father."
-      authors="Author"
+      logoFile=""
+      credits=""
+      authors="BA"
       description='''
-      Everything was well balanced in my modpack until they build the trading jail.
+      Everything was well balanced in my modpack until they built the trading jail.
       '''
 
       [[dependencies.examplemod]]
         modId="forge"
         mandatory=true
-        versionRange="[34,)"
+        versionRange="[34,36]"
         ordering="NONE"
         side="BOTH"
 
       [[dependencies.examplemod]]
         modId="minecraft"
         mandatory=true
-        versionRange="[1.16.3]"
+        versionRange="[1.16.3,1.16.5]"
         ordering="NONE"
         side="BOTH"
