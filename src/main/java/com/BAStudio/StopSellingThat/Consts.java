@@ -1,6 +1,6 @@
-package com.BAStudio.StopSellingThat;
+package com.BAStudio.StopSellingEnchants;
 
 public final class Consts {
-    public static final String MODID = "stopsellingthat";
-    public static final String MOD_NAME = "Stop Selling That";
+    public static final String MODID = "stopsellingenchants";
+    public static final String MOD_NAME = "Stop Selling Enchants";
 }

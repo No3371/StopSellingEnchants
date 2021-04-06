@@ -10,7 +10,7 @@
     license="All Rights Reserved"
 
     [[mods]]
-      modId="stopsellingthat"
+      modId="stopsellingenchants"
       version="1.0.0.0"
       displayName="Stop Selling Enchants"
       updateJSONURL="https://minecraftforge.net/versions.json"

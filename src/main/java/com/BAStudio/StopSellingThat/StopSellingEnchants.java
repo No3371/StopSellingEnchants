@@ -1,4 +1,4 @@
-package com.BAStudio.StopSellingThat;
+package com.BAStudio.StopSellingEnchants;
 
 import net.minecraftforge.common.ForgeConfig;
 import net.minecraftforge.common.ForgeMod;
